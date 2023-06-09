@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/rabeya-ferdousi">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=38C2FF&width=435&lines=Student;Has+knowledge+about+programming;UI%2FUX+Designer;Fronted+Web+Developer;Self-motivated" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=38C2FF&vCenter=true&width=435&lines=Student;Has+knowledge+about+programming;UI%2FUX+Designer;Frontend+Web+Developer;Self-motivated" alt="Typing SVG" /></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rabeya-ferdousi" alt="Rabeyaferdousi"/> </p>
 <img alter = "coding" align = "right" width = "400" src = "gif.gif" >
